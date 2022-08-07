@@ -71,6 +71,4 @@ The goal of this project is to make a recommendation system which will recommend
 * But, using **DBSCAN algorithm** provides the user better experience in terms user data given, so I will recommend to use DBSCAN algorithm over the KNN and t-SNE clustering.
 * DBSCAN Model is having the accuracy of **92.56%**.
 *******************************
-## Author
-Code Contributed by, Abhishek Sharma, 2021 @abhisheks008 #LGMSOC21
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
